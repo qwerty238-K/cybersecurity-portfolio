@@ -2,7 +2,6 @@
 layout: home
 ---
 
-# Cybersecurity Portfolio
 
 *Chen Zuyao · Master of Cyber Security · Universiti Malaya*
 
@@ -31,9 +30,15 @@ Through this portfolio, I aim to document projects, reflect on mistakes, and sho
 
 ## 3. Certifications and Training
 
-- **Cisco Networking Academy:** In progress — replace with the exact course title and target completion date.
-- **Security operations and SIEM learning:** Planned — replace with the course name and target date.
-- **Professional certifications earned:** None listed yet. Add only certificates you have actually obtained, with a verification link where available.
+
+## 3. Certifications and Training
+
+- **Cisco Networking Academy Laboratory Exercises (Completed, November 2026):** Completed practical exercises covering Nmap network scanning, TCP three-way handshake analysis using Wireshark, and networking fundamentals. These are coursework activities, not professional certifications.
+
+- **Security Operations and SIEM Training (Planned):** Microsoft Sentinel fundamentals and introductory log-analysis exercises. Target completion: 30 June 2027.
+
+- **Professional Certifications:** No professional certification is currently listed in this portfolio. Verified credentials will be added after completion.
+
 
 ## 4. Projects
 
@@ -71,7 +76,7 @@ By June 2028, I aim to demonstrate measurable progress through completed learnin
 
 - **Email:** 25095117@siswa.um.edu.my
 - **GitHub:** [qwerty238-K](https://github.com/qwerty238-K)
-- **LinkedIn:** [View my professional profile](https://www.linkedin.com/in/REPLACE_LINKEDIN_PROFILE/)
+- **LinkedIn:** [View my professional profile](https://www.linkedin.com/in/祖垚-陈-8ab4a4441/)
 
 I welcome professional connections related to cybersecurity learning, SOC operations and entry-level opportunities.
 
