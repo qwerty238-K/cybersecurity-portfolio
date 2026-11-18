@@ -1,0 +1,17 @@
+WQE7001 GitHub Cybersecurity Portfolio 模板使用说明
+
+1. 这是写作与目录模板，不是已完成作业。请按你的真实实验修改内容并上传证据。
+2. 在 GitHub 新建 Public 仓库 cybersecurity-portfolio，并勾选 Add a README。
+3. 将仓库 git clone 到本地，再把这个压缩包内的文件复制到本地仓库根目录，覆盖示例 README.md。
+4. 全局搜索并替换：REPLACE_GITHUB_USERNAME、REPLACE_LINKEDIN_PROFILE、REPLACE_WITH_PROFESSIONAL_EMAIL。
+5. 检查 _config.yml 中的 url, baseurl；仓库名必须是 cybersecurity-portfolio。
+6. 修改 index.md 中技术等级、Training 状态、About Me、Learning Journey、Career Objective，使其符合真实情况。
+7. 两个 projects/*/README.md 内的方括号内容是填写提示，不是提交答案。逐个替换，并提供自己的截图。
+8. 为保证 GitHub Pages 能生成项目页面，项目 README.md 开头包含 YAML Front Matter，请保留。
+9. 提交到 main，发布 Settings > Pages > Deploy from a branch > main > / (root)。
+10. 创建 feature 分支，提交真实修改，推送到 GitHub，在 Pull requests 中创建并 Merge 一个 PR。
+11. 检查页面、链接、证据、隐私与拼写，然后 Releases > Draft a new release：v1.0-submission。
+12. 将 live site 放在 LinkedIn 个人资料，并按 Spectrum 要求提交 release tag 链接、live site 链接及 LinkedIn profile URL。
+
+英文词数预检：About Me 161，Learning Journey 474，Career Objective 152。
+文件没有包含真实的实验截图、证书或 Git 历史，必须自行补齐。
