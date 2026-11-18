@@ -20,9 +20,9 @@ Through this portfolio, I aim to document projects, reflect on mistakes, and sho
 | Technical area | Current level | Evidence or learning focus |
 | --- | --- | --- |
 | TCP/IP and network fundamentals | Working knowledge | Network configuration and packet analysis labs |
-| Nmap and service reconnaissance | Working knowledge | [Nmap Service Scan]({{ '/projects/nmap-service-scan/README.html' | relative_url }}) |
+| Nmap and service reconnaissance | Working knowledge | [Nmap Service Scan]({{ '/projects/nmap-service-scan/' | relative_url }}) |
 | Wireshark and traffic inspection | Beginner to working knowledge | TCP handshake and packet capture exercises |
-| Linux command line | Working knowledge | [Virtual Laboratory Setup]({{ '/projects/virtual-lab-setup/README.html' | relative_url }}) |
+| Linux command line | Working knowledge | [Virtual Laboratory Setup]({{ '/projects/virtual-lab-setup/' | relative_url }}) |
 | Python scripting | Working knowledge | Coursework scripts and data parsing |
 | SIEM and alert investigation | Beginner | Planned hands-on practice |
 
@@ -42,11 +42,11 @@ Through this portfolio, I aim to document projects, reflect on mistakes, and sho
 
 ### Project 1: Virtual Cybersecurity Lab Setup
 
-A controlled virtual environment for learning network configuration, security testing and technical documentation. [Read the full project report]({{ '/projects/virtual-lab-setup/README.html' | relative_url }}).
+A controlled virtual environment for learning network configuration, security testing and technical documentation. [Read the full project report]({{ '/projects/virtual-lab-setup/' | relative_url }}).
 
 ### Project 2: Nmap Service Scan and Analysis
 
-A documented service-discovery exercise against an authorised lab target, including scan methodology and evidence. [Read the full project report]({{ '/projects/nmap-service-scan/README.html' | relative_url }}).
+A documented service-discovery exercise against an authorised lab target, including scan methodology and evidence. [Read the full project report]({{ '/projects/nmap-service-scan/' | relative_url }}).
 
 ## 5. Learning Journey
 
@@ -56,7 +56,7 @@ One topic that has strengthened my understanding is network reconnaissance with 
 
 A second important topic has been packet analysis with Wireshark. Examining TCP connections helped me connect familiar theoretical ideas, such as the three-way handshake, to individual packets. Source and destination addresses, ports, TCP flags, and sequence information provide evidence about the behaviour of a connection. I found that a packet capture becomes more meaningful when I can relate each observation to a specific question. This encouraged me to improve how I annotate screenshots and document a repeatable procedure.
 
-One challenge I encountered in practical work was troubleshooting results that did not match my expectations. When network connectivity or a scan produced unexpected output, repeating the same command was not always helpful. A more productive approach was to verify the virtual machine network settings, confirm the target address, check connectivity, and then review the relevant tool options. I learned to make one change at a time, record the outcome, and separate environmental problems from errors in interpreting results. This is an approach I want to continue using in future investigations.
+During the virtual lab setup, Kathará returned `No module named kathara`. I traced the error to running Kathará outside the configured Python environment. I switched to `kathara-env` and reran the Kathará system check. The check confirmed that Docker could start a test container. This taught me to verify the Python environment before troubleshooting the lab network.
 
 I still find professional security monitoring and SIEM investigation challenging. Reading a basic scan result is different from working with large volumes of logs, identifying meaningful indicators, and deciding which events require escalation. I need more practice connecting technical evidence to an incident timeline and explaining findings to both technical and non-technical readers.
 
