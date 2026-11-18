@@ -2,7 +2,7 @@
 
 A public cybersecurity portfolio documenting technical skills, authorised laboratory projects, learning reflections, and career goals.
 
-**Live portfolio:** https://REPLACE_GITHUB_USERNAME.github.io/cybersecurity-portfolio/
+**Live portfolio:**https://qwerty238-K.github.io/cybersecurity-portfolio/
 
 **Author:** Chen Zuyao | Master of Cyber Security, Universiti Malaya
 

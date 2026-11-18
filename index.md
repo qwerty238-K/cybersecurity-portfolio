@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 ---
 
 # Cybersecurity Portfolio
@@ -70,8 +69,8 @@ By June 2028, I aim to demonstrate measurable progress through completed learnin
 
 ## 7. Contact Information
 
-- **Email:** REPLACE_WITH_PROFESSIONAL_EMAIL
-- **GitHub:** [REPLACE_GITHUB_USERNAME](https://github.com/REPLACE_GITHUB_USERNAME)
+- **Email:** 25095117@siswa.um.edu.my
+- **GitHub:** [qwerty238-K](https://github.com/qwerty238-K)
 - **LinkedIn:** [View my professional profile](https://www.linkedin.com/in/REPLACE_LINKEDIN_PROFILE/)
 
 I welcome professional connections related to cybersecurity learning, SOC operations and entry-level opportunities.
