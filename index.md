@@ -28,8 +28,6 @@ Through this portfolio, I aim to document projects, reflect on mistakes, and sho
 
 *Skill levels are self-assessments and should be updated as practical evidence grows.*
 
-## 3. Certifications and Training
-
 
 ## 3. Certifications and Training
 
